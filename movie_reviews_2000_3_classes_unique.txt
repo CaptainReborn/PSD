@@ -1,4 +1,4 @@
-0.5	The film had some good moments, but overall, it was fine.
+0.5 The film had some good moments, but overall, it was fine.
 1.0	Amazing storyline and brilliant acting, a must-watch!
 0.5	Not bad, but not amazing either. It was just okay.
 1.0	The movie was absolutely fantastic, I loved every moment of it.
