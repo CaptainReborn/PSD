@@ -1,19 +1,19 @@
 0.5 The film had some good moments, but overall, it was fine.
-1.0	Amazing storyline and brilliant acting, a must-watch!
-0.5	Not bad, but not amazing either. It was just okay.
-1.0	The movie was absolutely fantastic, I loved every moment of it.
-0.0	Terrible acting and a predictable plot, not worth watching.
-0.5	It was okay, but I expected more from it.
-0.0	Such a waste of time, the movie lacked originality and substance.
-0.5	It was an average movie, could have been better.
-0.0	The special effects were terrible, and the script was even worse.
-0.0	I expected so much more, but the movie was a disappointment.
-0.5	I didn't love or hate the movie, it was just average.
-1.0	The movie exceeded my expectations, absolutely worth the time.
-1.0	The cinematography was stunning, and the characters felt so real.
-1.0	I was completely immersed in the story, one of the best movies this year.
-0.0	The movie was really boring, I struggled to finish it.
-0.5	The movie didn't impress me, but it wasn't horrible either.
+1.0 Amazing storyline and brilliant acting, a must-watch!
+0.5 Not bad, but not amazing either. It was just okay.
+1.0 The movie was absolutely fantastic, I loved every moment of it.
+0.0 Terrible acting and a predictable plot, not worth watching.
+0.5 It was okay, but I expected more from it.
+0.0 Such a waste of time, the movie lacked originality and substance.
+0.5 It was an average movie, could have been better.
+0.0 The special effects were terrible, and the script was even worse.
+0.0 I expected so much more, but the movie was a disappointment.
+0.5 I didn't love or hate the movie, it was just average.
+1.0 The movie exceeded my expectations, absolutely worth the time.
+1.0 The cinematography was stunning, and the characters felt so real.
+1.0 I was completely immersed in the story, one of the best movies this year.
+0.0 The movie was really boring, I struggled to finish it.
+0.5 The movie didn't impress me, but it wasn't horrible either.
 0.0 The pacing was too slow, and the ending was underwhelming.
 1.0 Beautifully directed, this film is a gem in modern cinema.
 1.0 A masterpiece with an incredible soundtrack and plot twists.
